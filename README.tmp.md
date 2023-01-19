@@ -1,3 +1,5 @@
+idk's mostly active projects
+============================
 * [i2p.plugins.firefox](https://github.com/eyedeekay/i2p.plugins.firefox)
 * [go i2pbrowser](https://github.com/eyedeekay/go-i2pbrowser)
 * [I2P in Private Browsing Mode Firefox](https://github.com/eyedeekay/I2P-in-Private-Browsing-Mode-Firefox)
