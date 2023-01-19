@@ -11,3 +11,5 @@ for repo in $(cat config.rc); do
     echo -n "* [$repo]" | sed 's|https://github.com/eyedeekay/||g' | tr '-' ' ' | tr '_' ' ' | tee -a README.tmp.md
     echo "($repo)" | tee -a README.tmp.md
 done
+
+edgar -script Github.bundle.min.js
