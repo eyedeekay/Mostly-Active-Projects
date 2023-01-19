@@ -1,4 +1,4 @@
-import GitHub from './Github.bundle.min.js';
+import GitHub from './GitHub.bundle.min.js';
 
 // unauthenticated client
 const gh = new GitHub();
