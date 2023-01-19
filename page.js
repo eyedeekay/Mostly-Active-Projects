@@ -1,4 +1,4 @@
-var GitHub = require('github-api');
+import GitHub from 'github-api';
 
 // unauthenticated client
 const gh = new GitHub();
