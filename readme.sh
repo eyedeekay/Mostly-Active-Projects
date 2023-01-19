@@ -12,4 +12,4 @@ for repo in $(cat config.rc); do
     echo "($repo)" | tee -a README.md
 done
 
-edgar -script Github.bundle.min.js,script.js
+edgar -script Github.bundle.min.js,page.js
